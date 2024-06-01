@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonkri9&count_bg=%23FF4CFA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Hello%21&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonkri9&count_bg=%23FF4CFA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitor%21&edge_flat=false"/></a>
 
 # ✨ BON MIN KU ✨
 
@@ -37,12 +37,12 @@
     <img src="https://img.shields.io/badge/mariadb-003545?style=flat&logo=mariadb&logoColor=white"/></a>
   </div>
   <br>
-  <div>
+<!--   <div>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonkri9&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=35% />
       <!-- 안에다가 &exclude_repo=레포title 이거 넣으면 해당 레포지토리는 계산 안됨-->
     </a> 
-  </div>
+  </div> -->
 </div>
 
 
@@ -66,11 +66,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </span>
-<span>
+<!-- <span>
   <a href="mailto:gugabm@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white"/>
   </a>
-</span>
+</span> -->
+<br>
 
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph" >
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonkri9&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
