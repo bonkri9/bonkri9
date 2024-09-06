@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbonkri9&count_bg=%23FF4CFA&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitor%21&edge_flat=false"/></a>
 
-# ✨ BON MIN KU ✨
+# ✨ Bonkri ✨
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gugabm)](https://solved.ac/gugabm/)
 <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
