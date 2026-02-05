@@ -1,4 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 # ✨ Bonkri ✨
+     
 ## 👋 About Me
 
 I'm a **System Engineer** based in **Nagoya, Japan**, currently working in the Japanese IT industry.  
@@ -6,6 +9,8 @@ While most of my project experience is frontend-focused, I’m actively building
 
 
 <p>
+  <img align="right" width="435px" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=bonkri9&show_icons=true&theme=chartreuse-dark"/>
     
   <a href="https://solved.ac/gugabm/">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gugabm" alt="Solved.ac Profile" />
@@ -73,3 +78,5 @@ While most of my project experience is frontend-focused, I’m actively building
 </p>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
