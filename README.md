@@ -8,16 +8,18 @@ I'm a **System Engineer** based in **Nagoya, Japan**, currently working in the J
 While most of my project experience is frontend-focused, I’m actively building my path toward **backend and DevOps**, with a strong interest in system design and cloud infrastructure.
 
 
-<p>
-  <img align="right" width="435px" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=bonkri9&show_icons=true&theme=chartreuse-dark"/>
-    
+ <p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" width="410px"
+      src="https://github-readme-stats-fast.vercel.app/api?username=bonkri9&show_icons=true&theme=chartreuse-dark&hide_border=true&disable_animations=true" />
+  </a>
+
   <a href="https://solved.ac/gugabm/">
     <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gugabm" alt="Solved.ac Profile" />
   </a>
 </p>
 
-<br/>
+<br clear="right"/>
 
 ## 💪 Skills 💪
 
