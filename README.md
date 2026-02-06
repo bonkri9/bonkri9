@@ -10,7 +10,7 @@ While most of my project experience is frontend-focused, I’m actively building
 
  <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" width="410px"
+    <img align="left" height="170px"
       src="https://github-readme-stats-fast.vercel.app/api?username=bonkri9&show_icons=true&theme=chartreuse-dark&hide_border=true&disable_animations=true" />
   </a>
 
